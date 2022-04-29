@@ -16,4 +16,8 @@ commit -am ":bug: fix bug"
 - 📝  => `` :memo: `` add or update documentation
 - 🐛 => `` :bug: `` fix bug
 - 🚧 => `` :construction: `` work in progress
-- 👤 => `` :busts_in_silhouett `` add or update contributor(s)
+- 👤 => `` :busts_in_silhouett: `` add or update contributor(s)
+
+### Tasks to be done
+- [x] build the projet
+- [ ] build on the first page

@@ -11,12 +11,12 @@ npm install
 commit -am ":bug: fix bug"
 ```
 ### Emoji list used
-- 💄   => `` :lipstick: `` add style
-- 🔥  => `` :fire: `` remove code
-- 📝  => `` :memo: `` add or update documentation
+- 💄 => `` :lipstick: `` add style
+- 🔥 => `` :fire: `` remove code
+- 📝 => `` :memo: `` add or update documentation
 - 🐛 => `` :bug: `` fix bug
 - 🚧 => `` :construction: `` work in progress
-- 👤 => `` :busts_in_silhouett: `` add or update contributor(s)
+- 👤 => `` :busts_in_silhouette: `` add or update contributor(s)
 
 ### Tasks to be done
 - [x] build the projet

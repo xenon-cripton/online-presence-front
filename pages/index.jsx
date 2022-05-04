@@ -1,6 +1,11 @@
+// import les composants
+import Banner from "../components/Banner"
 
-export default function Home() {
+// fonction principale d'affichage
+export default function Index() {
   return (
-    <div>Index</div>
+    <>
+    <Banner />
+    </>
   )
 }
